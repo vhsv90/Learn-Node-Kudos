@@ -1,0 +1,25 @@
+{
+  "name": "kudos",
+  "version": "1.0.0",
+  "description": "Kudos NodeJs API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhsv90/Learn-Node-Kudos.git"
+  },
+  "keywords": [
+    "kudos",
+    "nodejs",
+    "js",
+    "javascript"
+  ],
+  "author": "Victor Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vhsv90/Learn-Node-Kudos/issues"
+  },
+  "homepage": "https://github.com/vhsv90/Learn-Node-Kudos#readme"
+}
